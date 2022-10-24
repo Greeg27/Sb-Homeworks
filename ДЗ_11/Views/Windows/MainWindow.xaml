@@ -11,6 +11,6 @@
         <vm:MainWindowViewModel/>
     </Window.DataContext>
     <Grid>
-        
+        <Frame Content="{Binding CurrentPage}"/>
     </Grid>
 </Window>
