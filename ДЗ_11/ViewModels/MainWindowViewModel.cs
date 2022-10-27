@@ -25,7 +25,7 @@ namespace ДЗ_11.ViewModels
             Authorization = new Views.Pages.Authorization();
             Working = new Views.Pages.Working();
 
-            CurrentPage = Authorization;
+            CurrentPage = Working;
         }
     }
 }
